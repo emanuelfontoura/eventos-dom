@@ -1,2 +1,2 @@
-# eventos-dom-modal
- Estudo e criação de um modal usando JavaScript.
+# eventos-dom
+ Estudo e criação de eventos no DOM usando JavaScript.
