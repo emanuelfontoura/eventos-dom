@@ -26,7 +26,8 @@
     background-color: red;
     padding: 20px;
     flex-direction: column;
-    min-width: 160px;
+    min-width: 190px;
+    text-align: center;
     gap: 25px;
 }
 
